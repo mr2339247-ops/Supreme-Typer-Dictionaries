@@ -1,0 +1,6 @@
+supreme_config=1
+heading=Developed by Mohsin Riaz
+name=Mohsin Riaz
+phone=923071881947
+youtube=https://youtube.com/@techforvi?si=WWPGEmmJ-Lmof3sl
+description=Voice Typing Extension for Visually Impaired Users. Multi-engine translation with smart punctuation and contextual emojis!
