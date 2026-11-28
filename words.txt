@@ -1,0 +1,232 @@
+# Supreme Typer word fixes and emoji
+# One entry per line: wrong=right. Lines starting with # are ignored.
+
+[spelling:en]
+teh=the
+tehre=their
+recieve=receive
+adn=and
+tehn=then
+waht=what
+wich=which
+whta=what
+jsut=just
+tihs=this
+taht=that
+beacuse=because
+befoer=before
+exmaple=example
+freind=friend
+sucess=success
+mkae=make
+tkae=take
+wrok=work
+
+[spelling:ur]
+وه=وہ
+هے=ہے
+هیں=ہیں
+هو=ہو
+هوں=ہوں
+هوا=ہوا
+هی=ہی
+كي=کی
+ميں=میں
+نهيں=نہیں
+نهیں=نہیں
+تها=تھا
+كيا=کیا
+كيوں=کیوں
+كيسے=کیسے
+كون=کون
+يه=یہ
+كه=کہ
+بھى=بھی
+اورر=اور
+ہےے=ہے
+میںں=میں
+کیی=کی
+
+[spelling:hi]
+औरर=और
+हैै=है
+मैंं=मैं
+नही=नहीं
+थीी=थी
+
+[spelling:ar]
+منن=من
+
+[shortforms]
+u=you
+ur=your
+plz=please
+thx=thanks
+ok=okay
+
+[apostrophes]
+dont=don't
+cant=can't
+wont=won't
+didnt=didn't
+doesnt=doesn't
+isnt=isn't
+arent=aren't
+wasnt=wasn't
+werent=weren't
+havent=haven't
+hasnt=hasn't
+hadnt=hadn't
+wouldnt=wouldn't
+shouldnt=shouldn't
+couldnt=couldn't
+im=I'm
+ive=I've
+youre=you're
+youve=you've
+youll=you'll
+shes=she's
+thats=that's
+whats=what's
+wheres=where's
+theyre=they're
+theres=there's
+heres=here's
+whos=who's
+
+[merged]
+wanto=want to
+wantto=want to
+haveto=have to
+gonna=going to
+goout=go out
+wakeup=wake up
+getup=get up
+giveup=give up
+iam=I am
+youare=you are
+weare=we are
+theyare=they are
+sheis=she is
+heis=he is
+itis=it is
+iwill=I will
+youwill=you will
+whatis=what is
+whois=who is
+howis=how is
+comeon=come on
+holdon=hold on
+lookat=look at
+thankyou=thank you
+goodmorning=good morning
+goodnight=good night
+goodevening=good evening
+alot=a lot
+aswell=as well
+infront=in front
+atleast=at least
+everytime=every time
+incase=in case
+inspite=in spite
+
+[simple]
+utilize=use
+commence=start
+terminate=end
+approximately=about
+assistance=help
+purchase=buy
+obtain=get
+require=need
+demonstrate=show
+sufficient=enough
+attempt=try
+regarding=about
+subsequently=later
+nevertheless=still
+furthermore=also
+additionally=also
+consequently=so
+facilitate=help
+initiate=start
+numerous=many
+optimal=best
+
+[modern]
+buy=purchase
+show=demonstrate
+need=require
+enough=sufficient
+many=numerous
+
+[emoji]
+🖐️=salam,hello,hi,السلام
+🌅=good morning
+🌙=good night
+🌆=good evening
+🤗=welcome
+👋=goodbye,khuda hafiz,خدا حافظ
+🙏=shukria,thanks,thank you,شکریہ
+🎂=happy birthday,سالگرہ مبارک
+🎉=mubarak,congratulations,congrats,مبارک
+😊=khush,happy,great,خوش
+🌟=amazing,excellent,perfect
+❤️=pyar,love,محبت
+💭=miss you,یاد
+😢=afsos,sad,sorry,افسوس
+😭=cry,رونا
+👍=theek,okay,ok,ٹھیک
+✅=done,ho gaya,ہو گیا
+🍽️=khana,food,eat,کھانا
+☕=chai,tea,چائے
+💧=pani,water,پانی
+💰=paisa,money,پیسہ
+⏰=time,وقت
+✈️=travel,سفر
+🕌=namaz,pray,نماز
+
+[english:ur]
+روٹین=routine
+موبائل=mobile
+کمپیوٹر=computer
+لیپ ٹاپ=laptop
+انٹرنیٹ=internet
+واٹس ایپ=WhatsApp
+وٹس ایپ=WhatsApp
+یوٹیوب=YouTube
+فیس بک=Facebook
+گوگل=Google
+میسج=message
+ویڈیو=video
+آڈیو=audio
+چینل=channel
+لنک=link
+ڈاؤن لوڈ=download
+اپ لوڈ=upload
+ایپ=app
+فائل=file
+فولڈر=folder
+سیٹنگ=setting
+سیٹنگز=settings
+پاس ورڈ=password
+سافٹ ویئر=software
+اپڈیٹ=update
+آن لائن=online
+آف لائن=offline
+سکرین=screen
+کی بورڈ=keyboard
+ٹائپنگ=typing
+ایکسٹینشن=extension
+ریکارڈنگ=recording
+گروپ=group
+ای میل=email
+آفس=office
+سکول=school
+کلاس=class
+ٹیچر=teacher
+ڈاکٹر=doctor
+میٹنگ=meeting
+ٹائم=time
+پلیز=please
+اوکے=OK
